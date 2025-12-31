@@ -1,0 +1,1 @@
+1. still need to compare regenie pseudo-varint with saige pseudo-variant for the same gene and simulation id (heritability & id).

@@ -1,0 +1,4 @@
+pLoF pLoF
+pLoF_damaging pLoF,damaging_missense
+nonsynonymous pLoF,damaging_missense,other_missense
+synonymous synonymous
