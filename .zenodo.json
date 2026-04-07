@@ -1,0 +1,32 @@
+{
+  "title": "Reproducibility scripts for: Deviations from genetic additivity driven by rare variants at biobank scale",
+  "description": "Analysis scripts accompanying the manuscript on non-additive genetic effects at biobank scale.",
+  "license": "MIT",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Lassen, Frederik H.",
+      "affiliation": "University of Oxford"
+    }
+  ],
+  "keywords": [
+    "genetics",
+    "GWAS",
+    "non-additive",
+    "dominance",
+    "UK Biobank",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/frhl/nonadditivity",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.19456495",
+      "relation": "requires",
+      "scheme": "doi"
+    }
+  ]
+}
